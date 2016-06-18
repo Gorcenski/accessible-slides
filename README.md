@@ -47,3 +47,8 @@ Vision impaired persons attend conferences to hear speakers, but they cannot alw
 About 8% of XY-folks and about 0.5% of XX-folks are colorblind (colorblindness comes from a deficiency in the X-chromosome, so XX-folks have an extra X-chromosome to make up for the deficiency, leading to the lower prevalence; see https://nei.nih.gov/health/color_blindness/facts_about). It's okay (in fact it's great!) to use color contrast to convey meaning; however, consider color schemes that can be seen by folks with colorblindness. Also, be sure to educate yourself on the types of colorblindness, as there are different conditions.
 
 Furthermore, color contrast is important. Pick fonts that have high contrast against their background. Many vision disorders include a component of contrast sensitivity---if your audience is struggling to read, they're having a bad experience. These slides are by default white-on-dark (accessible-dark) or dark-on-light (accessible-light). There is some debate as to which is best for low-light situations; however, if you keep both templates with you and use default layouts, you can easily switch at the last moment if the lighting conditions are poor!
+
+
+## Contributing
+
+Please contribute! If you have a preferred alternate template that you'd like to give to the world or would like to add layouts, templates for different programs/operating systems, or anything else, please feel free to submit a pull request! Just mind the Code of Conduct in discussions :)
